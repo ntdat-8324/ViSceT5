@@ -1,2 +1,1 @@
-# ViSceT5
-ViSceT5: Active Fusion Multimodal Framework for Text-based Visual Question Answering
+# ViSceT5: Active Fusion Multimodal Framework for Scene-Text Visual Question Answering
